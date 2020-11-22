@@ -48,7 +48,7 @@ def type():
     print(f'[{Fore.RED}>{Fore.RESET}] Your token', end=''); token = str(input('  :  '))
     print(f'[{Fore.RED}>{Fore.RESET}] Channel id', end=''); channel = str(input('  :  '))
     headers = {'Authorization': token}
-    print('starting typing...')
+    print('started typing...')
     while True:    
         requests.post(f'https://discordapp.com/api/v6/channels/{channel}/typing', headers=headers)
 
