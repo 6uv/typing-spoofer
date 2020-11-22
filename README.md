@@ -5,4 +5,4 @@ This is a simple program using requests to spoof a typing message in any server 
 download python and run (in the folder) pip install -r requirements.txt and run the python file
 
 # Previews
-<img src="https://uwu.lol/i/d2ps7t.png"/>
+<img src="https://images-ext-2.discordapp.net/external/UIfwthCYuv1zvgCaUflBCWZdpOUvsDmBHB1jfUnQjNA/https/uwu.lol/i/xej1v2.png?width=862&height=676"/>
