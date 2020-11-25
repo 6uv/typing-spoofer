@@ -6,3 +6,4 @@ download python and run (in the folder) pip install -r requirements.txt and run 
 
 # Previews
 <img src="https://images-ext-2.discordapp.net/external/UIfwthCYuv1zvgCaUflBCWZdpOUvsDmBHB1jfUnQjNA/https/uwu.lol/i/xej1v2.png?width=862&height=676"/>
+ 
